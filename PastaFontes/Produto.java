@@ -1,4 +1,6 @@
 //Classe que guarda dados de produtos e serviços oferecidos no estacionamento
+
+// Exemplos de produtos e servicos: estacionar veiculo; lavar veiculo; trocar oleo
 public class Produto {
 
 	private double peso;
